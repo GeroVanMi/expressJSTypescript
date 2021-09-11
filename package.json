@@ -1,0 +1,16 @@
+{
+  "name": "express-ts",
+  "version": "0.0.1",
+  "description": "A simple express js project with Typescript and automated tests.",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GeroVanMi/expressJSTypescript.git"
+  },
+  "author": "Gerome Meyer",
+  "license": "MIT"
+}
